@@ -1,6 +1,6 @@
 int myVoltPin=A2;
 int readVal;
-int delayTime = 250
+int delayTime = 250;
 float V2;
 
 void setup() {
